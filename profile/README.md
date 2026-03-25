@@ -1,1 +1,1 @@
-![tomato-1](./public/1.jepg)
+![tomato-1](../public/1.jepg)
